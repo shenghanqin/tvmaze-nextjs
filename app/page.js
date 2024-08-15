@@ -7,14 +7,16 @@ async function getData() {
   const apiKey = process.env.API_KEY;
   const resp = await fetch(
     // `https://api.themoviedb.org/3/movie/popular?api_key=${apiKey}&language=en-US&page=1`
-    `https://api.themoviedb.org/3/trending/all/day?api_key=${apiKey}&page=1`
+    // `https://api.themoviedb.org/3/trending/all/day?api_key=${apiKey}&page=1`
+    'https://api.tvmaze.com/search/shows?q=girls',
   );
 
   if (!resp.ok) {
     throw new Error("Failed to fetch data");
   }
   const data = await resp.json();
-  let res = data.results;
+  console.log("🚀 ~ getData ~ data:", data)
+  let res = data;
   return res;
 }
 

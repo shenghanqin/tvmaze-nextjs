@@ -4,6 +4,7 @@ import HomeCards from "./HomeCard";
 
 const HomeDisplay = (props) => {
   let { movies, pageid } = props;
+  console.log("🚀 ~ HomeDisplay ~ movies:", movies)
   return (
     <>
       <div className="flex flex-wrap justify-center py-10 px-5">
@@ -11,7 +12,7 @@ const HomeDisplay = (props) => {
           return <HomeCards key={movie.id} MovieCard={movie} />;
         })}
       </div>
-      <HomePagination pageid={pageid} />
+      {/* <HomePagination pageid={pageid} /> */}
     </>
   );
 };

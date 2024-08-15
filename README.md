@@ -1,9 +1,9 @@
-# Welcome to CineWorld! The World of Cinema.
-CineWorld is a movie and tv shows streaming website created using TMDB API in React-Next JS Framework and Tailwind CSS.
+# Welcome to XiaoxiliWorld! The World of Xiaoxilima.
+XiaoxiliWorld is a movie and tv shows streaming website created using TMDB API in React-Next JS Framework and Tailwind CSS.
 
 ## Overview
 
-Cineworld is a dynamic and immersive movie streaming website that brings you an extensive collection of films from various genres. Powered by React, Next.js, and Tailwind CSS, Cineworld offers an unparalleled user experience, providing movie enthusiasts with a seamless and entertaining journey through the world of cinema.
+Xiaoxiliworld is a dynamic and immersive movie streaming website that brings you an extensive collection of films from various genres. Powered by React, Next.js, and Tailwind CSS, Xiaoxiliworld offers an unparalleled user experience, providing movie enthusiasts with a seamless and entertaining journey through the world of cinema.
 
 ##Screenshots
 
@@ -22,11 +22,11 @@ Cineworld is a dynamic and immersive movie streaming website that brings you an 
 
 - **User-friendly Interface**: Enjoy a sleek and intuitive design that ensures a smooth and enjoyable browsing experience.
 
-- **Data-driven Content**: Cineworld utilizes the TMDB API to provide up-to-date movie information, including posters, summaries, and ratings.
+- **Data-driven Content**: Xiaoxiliworld utilizes the TMDB API to provide up-to-date movie information, including posters, summaries, and ratings.
 
-- **Responsive Design**: Access Cineworld from any device, as the website is fully responsive and optimized for mobile, tablet, and desktop.
+- **Responsive Design**: Access Xiaoxiliworld from any device, as the website is fully responsive and optimized for mobile, tablet, and desktop.
 
-- **Fast Loading**: Built with Next.js 13, Cineworld boasts lightning-fast loading times, reducing waiting times for an optimal user experience.
+- **Fast Loading**: Built with Next.js 13, Xiaoxiliworld boasts lightning-fast loading times, reducing waiting times for an optimal user experience.
 
 ## Installation and Setup
 
@@ -55,7 +55,7 @@ API_KEY=your_tmdb_api_key
 npm run dev
 ```
 
-5. Open your browser and navigate to `http://localhost:3000` to access Cineworld.
+5. Open your browser and navigate to `http://localhost:3000` to access Xiaoxiliworld.
 
 ## Tech Stack
 
@@ -65,7 +65,7 @@ npm run dev
 
 ## Deployment
 
-Cineworld is deployed using [Vercel](https://vercel.com/). Any changes pushed to the `main` branch will trigger an automatic deployment.
+Xiaoxiliworld is deployed using [Vercel](https://vercel.com/). Any changes pushed to the `main` branch will trigger an automatic deployment.
 
 ## Contributing
 
@@ -73,12 +73,12 @@ We welcome contributions from the open-source community! If you find a bug, have
 
 ## Acknowledgments
 
-- Our gratitude to [TMDB](https://www.themoviedb.org/) for providing the incredible API that powers Cineworld.
+- Our gratitude to [TMDB](https://www.themoviedb.org/) for providing the incredible API that powers Xiaoxiliworld.
 
 - A big thank you to the developers of React, Next.js, and Tailwind CSS for creating these fantastic frameworks that made this project possible.
 
 ---
 
-We hope you enjoy exploring Cineworld as much as we enjoyed creating it! Your feedback and support mean the world to us. Feel free to reach out with any questions or suggestions.
+We hope you enjoy exploring Xiaoxiliworld as much as we enjoyed creating it! Your feedback and support mean the world to us. Feel free to reach out with any questions or suggestions.
 
 Happy movie streaming! 🍿🎥

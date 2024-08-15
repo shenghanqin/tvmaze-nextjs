@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
       </Link>
       <p className="text-center text-light-white text-sm sm:text-base ">
-        Cineworld &copy; {new Date().getFullYear()}{" "}
+        Xiaoxiliworld &copy; {new Date().getFullYear()}{" "}
       </p>
 
       <Link
